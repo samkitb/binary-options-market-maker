@@ -1,0 +1,1 @@
+# No third-party dependencies. Python 3.11+ (uses PEP 604 unions).
